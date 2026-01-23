@@ -1,0 +1,7 @@
+PI = 3.14
+MAX_SPEED = 120
+COMPANY_NAME = "ABC Pvt Ltd"
+
+print(PI)
+print(MAX_SPEED)
+print(COMPANY_NAME)

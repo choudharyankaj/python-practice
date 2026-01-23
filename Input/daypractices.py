@@ -27,6 +27,3 @@ else:
 
 age = int(input("Age: "))
 print("Adult" if age >= 18 else "Minor")
-
-
-
